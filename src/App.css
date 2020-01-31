@@ -17,7 +17,7 @@ fieldset {
 fieldset > h3 {
   position: absolute;
   right: 20px;
-  top: 28px;
+  top: 14px;
 }
 pre {
   font-family: "Lato", sans-serif;
@@ -188,6 +188,9 @@ legend {
 }
 
 @media (max-width: 875px) {
+  fieldset > h3 {
+    top: 28px;
+  }
   .container {
     justify-content: space-around;
   }
