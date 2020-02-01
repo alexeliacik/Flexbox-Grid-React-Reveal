@@ -292,7 +292,7 @@ const PageContent = props => {
       <fieldset>
         {props.width > 1 && <h3>Current props.Width = {props.width}</h3>}
         {explanation}
-        <legend>Flexbox & Grid</legend>
+        <legend>Flexbox & CSS Grid</legend>
         <div className='container'>
           <div className='A'>
             <p>A</p>
