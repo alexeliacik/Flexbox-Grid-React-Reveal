@@ -1,4 +1,4 @@
-<h1>Flexbox & Grid system with sexy React Reveal animations!! </h1>
+<h1>Flexbox & CSS Grid with sexy React Reveal animations!! </h1>
 
 <p><strong>Open with Netlify and play around it. </strong></p>
 
