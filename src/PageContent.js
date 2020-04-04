@@ -278,7 +278,7 @@ const PageContent = props => {
   return (
     <div className='App'>
       <fieldset>
-        {props.width > 1 && <h3>Current Width = {props.width}</h3>}
+        {props.width > 1 && <h3>Current Width = {props.width}px</h3>}
         {explanation}
         <legend>Flexbox & Grid</legend>
         <div className='container'>
